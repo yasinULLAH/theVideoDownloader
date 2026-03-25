@@ -28,13 +28,6 @@ Designed with a modern "Dark Mode" aesthetic using **CustomTkinter**, YD offers 
 
 ---
 
-## 📸 Preview
-
-*(Add your screenshot here)*
-> **Pro Tip:** Include a high-quality GIF of the app in action to increase user engagement!
-
----
-
 ## ⚙️ Installation
 
 ### 1. Prerequisites
