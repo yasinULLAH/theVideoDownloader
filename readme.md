@@ -28,35 +28,11 @@ Designed with a modern "Dark Mode" aesthetic using **CustomTkinter**, YD offers 
 
 ---
 
-## ⚙️ Installation
-
-### 1. Prerequisites
-Ensure you have **Python 3.8+** installed. You also need **FFmpeg** for merging video/audio streams and embedding metadata.
-
-*   **FFmpeg:** [Download FFmpeg](https://ffmpeg.org/download.html) (Ensure it's added to your System PATH).
-
-### 2. Clone the Repository
-```bash
-git clone https://github.com/yourusername/yd-video-downloader.git
-cd yd-video-downloader
-```
-
-### 3. Install Dependencies
-```bash
-pip install -r requirements.txt
-```
-*Note: If you don't have a requirements file, install the core libraries:*
-```bash
-pip install customtkinter yt-dlp
-```
-
----
-
 ## 🚀 Usage
 
 1.  Run the application:
     ```bash
-    python main.py
+    download the repo and run video dowloader.exe
     ```
 2.  **Download Tab:** Paste a URL, select your format (MP4/MP3) and quality, then hit **Start**.
 3.  **Queue Tab:** Paste a list of URLs to process them in bulk.
